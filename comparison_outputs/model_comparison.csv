@@ -1,0 +1,4 @@
+model,accuracy,f1_macro,confusion_matrix
+transformer_mlp,0.5766871165644172,0.5750990822080869,C:\Users\trabc\Documents\New project\comparison_outputs\transformer_mlp_confusion_matrix.png
+svm_linear,0.5797546012269938,0.571152357926647,C:\Users\trabc\Documents\New project\comparison_outputs\svm_linear_confusion_matrix.png
+logistic_regression,0.5552147239263804,0.5409157089234579,C:\Users\trabc\Documents\New project\comparison_outputs\logistic_regression_confusion_matrix.png

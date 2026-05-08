@@ -1,0 +1,7 @@
+{
+  "selection_metric": "f1_macro",
+  "best_model": "transformer_mlp",
+  "best_f1_macro": 0.5750990822080869,
+  "best_accuracy": 0.5766871165644172,
+  "best_model_path": "C:\\Users\\trabc\\Documents\\New project\\comparison_outputs\\best_model.joblib"
+}
